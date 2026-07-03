@@ -5,7 +5,7 @@ import requests
 # CONFIG
 # -----------------------------
 
-FASTAPI_URL = "http://127.0.0.1:8000/chat"
+FASTAPI_URL = "shl-chatbot-production-0880.up.railway.app"
 
 st.set_page_config(
     page_title="SHL Assessment Recommender",
